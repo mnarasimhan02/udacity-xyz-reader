@@ -5,7 +5,7 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="512057633256942"
+    timestamp="682623665818639"
     token="2319271589375312896"
     verifier="COMPATIBLE" >
 
@@ -27,14 +27,24 @@
         type="RESOURCES" />
 
     <build
-        timestamp="510697070374560"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="679903127324779"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\maheshya\AndroidStudioProjects\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="512057633256942"
+        timestamp="681118559415211"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\maheshya\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\maheshya\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="682623665818639"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\maheshya\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
